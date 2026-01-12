@@ -1,92 +1,71 @@
 <div align="center">
- 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="auto" alt="Coding GIF"/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Veera!;CSBS+Student+%40+SSM+IET;AI+Prompt+Engineer;UI%2FUX+Designer;Building+Veera's+Verse..." alt="Typing SVG" />
-  </a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Veeramanikandan%20G&fontSize=50&animation=fadeIn&fontAlignY=35&desc=CSBS%20Student%20%7C%20AI%20Prompt%20Engineer%20%7C%20UI/UX&descAlignY=55&descSize=20" width="100%" alt="Header" />
+  
   <p>
     <a href="https://www.linkedin.com/in/veera-%E2%9C%A6%EF%B8%8E-a6b488327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:veeramani.4evr@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/veera4evr">
-      <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
     </a>
   </p>
 </div>
 
 ---
 
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      
 ### 👨‍💻 About Me
 
-> [cite_start]*"Passionate about bridging the gap between complex code and user-centric design."* 
+Hi! [cite_start]I'm **Veera**, a **Computer Science and Business Systems** student at **SSM Institute of Engineering and Technology**[cite: 3, 26].
 
-[cite_start]I am a **Computer Science and Business Systems (CSBS)** student at **SSM Institute of Engineering and Technology**[cite: 3, 26]. My work sits at the intersection of technical logic and creative design.
+I specialize in **AI Prompt Engineering** and **UI/UX**, meaning I can make the backend smart and the frontend pretty. [cite_start]I'm currently looking for internships where I can break code and then fix it better than before[cite: 6].
 
-* [cite_start]🔭 **I’m currently working on:** **Veera's Verse** (Personal Branding) & AI Experiments[cite: 8, 12].
-* [cite_start]🎓 **Focus:** AI Prompt Engineering, Data Science, and Responsive Web Design[cite: 3].
-* ⚡ **Fun Fact:** I don't just write code; [cite_start]I negotiate with LLMs until they give me the right answer (Prompt Tuning)[cite: 16].
-* [cite_start]📍 **Location:** Palani, Tamil Nadu[cite: 2].
+- [cite_start]🔭 **Working on:** **Veera's Verse** (Portfolio) & AI Experiments[cite: 8].
+- [cite_start]🌱 **Learning:** How to make LLMs do exactly what I want (Prompt Tuning)[cite: 16].
+- [cite_start]📍 **Based in:** Palani, Tamil Nadu[cite: 2].
+- ⚡ **Fun Fact:** I treat `CTRL+Z` as a lifestyle choice.
 
----
+    </td>
+    <td width="40%" valign="top">
+      
+### 📊 Weekly Pulse
+<img src="https://github-readme-stats.vercel.app/api?username=veera4evr&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555" alt="Veera's Stats" />
 
-### 🛠️ The Tech Stack
-
-*High-level tools I use to build and document projects.*
-
-<div align="center">
-
-  **Languages & Core**
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <br>
-  
-  **AI & Data Science**
-  <br>
-  <img src="https://img.shields.io/badge/AI-Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-Business_Analytics-blue?style=for-the-badge&logo=google-analytics&logoColor=white" />
-  
-  <br>
-
-  **Design & Tools**
-  <br>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
-</div>
+</td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Technical Arsenal
 
-| 📂 Project | 📝 Description | 🔧 Tech Used |
+[cite_start]*The tools I use to build things.* [cite: 15, 20]
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **🎨 Frontend & UI** | ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=white) |
+| **🧠 AI & Data** | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-black?style=flat-square) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-black?style=flat-square) |
+| **🔧 Tools** | ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visual%20studio%20code&logoColor=white) |
+
+---
+
+### 🚀 Highlighted Projects
+
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Veera's Verse** | [cite_start]A responsive personal portfolio designed to showcase my technical competencies and brand identity[cite: 8, 9]. | `UI/UX` `HTML/CSS` |
-| **Frontend & AI Exp.** | [cite_start]A repository for testing and refining AI prompts and experimenting with web layouts[cite: 12, 13]. | `LLMs` `JavaScript` `Git` |
+| **Veera's Verse** | My personal brand identity and portfolio. [cite_start]Applied **UI/UX principles** to create an accessible, user-friendly structure[cite: 8, 10]. | `HTML` `CSS` `UI/UX` |
+| **AI Experiments** | [cite_start]A research repo where I engineer optimized AI prompts to test LLM outputs and document efficiency[cite: 12, 13]. | `LLM` `Prompt Eng.` |
 
 ---
 
-### 📊 GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera4evr&theme=tokyonight&hide_border=true" alt="Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=veera4evr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera4evr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=veera4evr&style=flat-square&color=blue" alt=""/>
- <br>
- <sub>Designed by Veera | 2026</sub>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Footer Divider">
+  <br>
+  [cite_start]<sub><i>"Bridging the gap between complex code and user-centric design."</i> [cite: 4]</sub>
 </div>
