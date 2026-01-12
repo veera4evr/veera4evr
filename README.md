@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=180&section=header&text=VEERAMANIKANDAN%20G&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Round Edged Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0f172a,334155,0f172a&height=180&section=header&text=VEERAMANIKANDAN%20G&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Gradient Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=0f172a&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+%26+BUSINESS+SYSTEMS;AI+PROMPT+ENGINEER;UI%2FUX+DESIGNER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+%26+BUSINESS+SYSTEMS;AI+PROMPT+ENGINEER;UI%2FUX+DESIGNER" alt="Typing SVG" />
   </a>
 
   <p>
@@ -22,15 +22,15 @@
 
 ## 👨‍💻 Professional Profile
 
-> [cite_start]**"Bridging the gap between complex code and user-centric design."** [cite: 4]
+> **"Bridging the gap between complex code and user-centric design."**
 
-[cite_start]I am a second-year undergraduate specializing in **Computer Science and Business Systems (CSBS)**[cite: 3]. My work sits at the intersection of technical engineering and business strategy.
+I am a second-year undergraduate specializing in **Computer Science and Business Systems (CSBS)** at **SSM Institute of Engineering and Technology**. My work sits at the intersection of technical engineering and business strategy.
 
-[cite_start]I focus on **AI Prompt Engineering** and **UI/UX Design**[cite: 3], ensuring that the backend logic is smart and the frontend interface is intuitive.
+I focus on **AI Prompt Engineering** and **UI/UX Design**, ensuring that the backend logic is smart and the frontend interface is intuitive.
 
-* [cite_start]📍 **Location:** Palani, Tamil Nadu [cite: 2]
-* [cite_start]🎓 **Education:** SSM Institute of Engineering and Technology [cite: 3]
-* [cite_start]💼 **Focus:** Web Development & AI Optimization [cite: 6]
+* 📍 **Location:** Palani, Tamil Nadu
+* 🎓 **Class of:** 2028
+* 💼 **Focus:** Web Development & AI Optimization
 
 <br>
 
@@ -50,14 +50,14 @@
 ## 🚀 Key Initiatives
 
 ### 🔹 **Veera's Verse** | *Personal Brand Identity*
-> [cite_start]*UI/UX & Frontend Engineering* [cite: 8]
+> *UI/UX & Frontend Engineering*
 >
-> Designed a responsive personal portfolio to showcase technical competencies. [cite_start]Applied **UI/UX principles** to create an accessible, user-friendly navigation structure[cite: 10].
+> Designed a responsive personal portfolio to showcase technical competencies. Applied **UI/UX principles** to create an accessible, user-friendly navigation structure.
 
 ### 🔹 **AI & Frontend Experiments**
-> [cite_start]*R&D & Optimization* [cite: 12]
+> *R&D & Optimization*
 >
-> An active repository where I engineer optimized **AI prompts** to test and refine outputs from various LLMs. [cite_start]Focuses on documenting results to improve prompt efficiency[cite: 13].
+> An active repository where I engineer optimized **AI prompts** to test and refine outputs from various LLMs. Focuses on documenting results to improve prompt efficiency.
 
 <br>
 
