@@ -1,73 +1,79 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,161b22,0d1117&height=280&section=header&text=VEERAMANIKANDAN%20G&fontSize=48&fontColor=c9d1d9&animation=fadeIn&fontAlignY=40&desc=COMPUTER%20SCIENCE%20%26%20BUSINESS%20SYSTEMS&descAlignY=65&descSize=20&descColor=8b949e" width="100%" alt="Background Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f172a,1e293b,0f172a&height=180&section=header&text=VEERAMANIKANDAN%20G&fontSize=45&fontColor=e2e8f0&animation=fadeIn&fontAlignY=50" width="100%" alt="Professional Header" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=24&duration=4000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+%26+BUSINESS+SYSTEMS;AI+PROMPT+ENGINEER+%7C+UI%2FUX+DESIGNER" alt="Typing SVG" />
+  </a>
 
   <p>
     <a href="https://www.linkedin.com/in/veera-%E2%9C%A6%EF%B8%8E-a6b488327">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:veeramani.4evr@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+      <img src="https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/veera4evr">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
     </a>
   </p>
 </div>
 
 <br>
 
-## 👨‍💻 Professional Profile
+## 📝 Executive Profile
 
-> *"Harmonizing complex backend logic with elegant user interfaces."*
+> **"Data without design is functional. Design without data is decorative. I bridge the gap."**
 
-I am a **Computer Science and Business Systems (CSBS)** undergraduate at **SSM Institute of Engineering and Technology**. My academic focus is unique: I study the technical depth of **Computer Science** alongside the strategic application of **Business Systems**. 
+[cite_start]I am a second-year undergraduate specializing in **Computer Science and Business Systems (CSBS)** at **SSM Institute of Engineering and Technology**[cite: 3, 26]. My academic foundation combines rigorous engineering principles with strategic business analytics.
 
-I am currently specializing in **AI Prompt Engineering** and **UI/UX Design**, seeking to build applications that are not just functional, but intuitive and profitable.
+[cite_start]I am currently focused on **R&D in Artificial Intelligence**, specifically **Prompt Engineering** and **LLM Optimization**, while maintaining a strong portfolio in **Responsive Web Design**[cite: 3, 16].
 
-* 🌍 **Location:** Palani, Tamil Nadu
-* 🎓 **Class of:** 2028
-* ⚡ **Core Focus:** Bridging the gap between Code (Dev) and Strategy (Business).
+* [cite_start]**📍 Base:** Palani, Tamil Nadu [cite: 2]
+* [cite_start]**🎓 Education:** B.Tech CSBS (2024–2028) [cite: 24, 28]
+* [cite_start]**💼 Goal:** Seeking internship opportunities in Web Development & AI[cite: 6].
 
 <br>
 
-## 🏛️ Technical Landscape
+## 🏛️ Domain Expertise
 
-*A comprehensive view of my development stack.*
+*A breakdown of my technical competencies.*
 
-| **Core Domain** | **Technologies & Tools** |
+| **Strategic Domain** | **Technical Stack** |
 | :--- | :--- |
-| **🧠 Artificial Intelligence** | ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Optimization-FF6F00?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-Tuning-darkgreen?style=flat-square) |
-| **💻 Full Stack Development** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **🎨 Design & Experience** | ![Figma](https://img.shields.io/badge/Figma-UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Responsive-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **⚙️ DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-VCS-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-IDE-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) |
+| **🧠 Artificial Intelligence** | ![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-Optimization-0f172a?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-Tuning-0f172a?style=flat-square) |
+| **💻 Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-Structure-0055a6?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Styling-0055a6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-Logic-0055a6?style=flat-square&logo=javascript&logoColor=white) |
+| **🎨 UI/UX Design** | ![Figma](https://img.shields.io/badge/Figma-Prototyping-333333?style=flat-square&logo=figma&logoColor=white) ![UX](https://img.shields.io/badge/User_Experience-Research-333333?style=flat-square) |
+| **📊 Data & Analytics** | ![Data](https://img.shields.io/badge/Data-Business_Analytics-0f172a?style=flat-square) ![Git](https://img.shields.io/badge/Git-Version_Control-0f172a?style=flat-square&logo=git&logoColor=white) |
 
 <br>
 
-## 🚀 Key Initiatives
+## 🚀 Featured Initiatives
 
-### 🔹 **Veera's Verse** | *Personal Branding*
-A digital portfolio engineered to demonstrate the intersection of branding and development.
-* **Tech:** `HTML5` `CSS3` `UI/UX Principles`
-* **Impact:** Established a professional digital presence with accessible navigation.
+### [cite_start]🔹 **Veera's Verse (Portfolio)** [cite: 8]
+> *Brand Identity & Frontend Engineering*
+>
+> Designed a responsive personal portfolio applying **UI/UX principles** to ensure an accessible structure. [cite_start]Integrated personal branding with modern aesthetics to demonstrate visual detail and business presentation[cite: 9, 10, 11].
+> * **Stack:** `HTML5` `CSS3` `Brand Identity`
 
-### 🔹 **AI R&D Lab** | *Prompt Engineering*
-An experimental repository documenting the behavior of various Large Language Models (LLMs) under specific prompt constraints.
-* **Tech:** `LLMs` `Python` `Documentation`
-* **Focus:** Optimizing output accuracy and reducing token usage.
+### [cite_start]🔹 **AI & Frontend Experiments** [cite: 12]
+> *Research & Development*
+>
+> An active repository for testing **AI prompt efficiency**. [cite_start]I document the results from various LLMs to refine prompt inputs and optimize outputs, bridging the gap between raw AI capability and user needs[cite: 13].
+> * **Stack:** `Prompt Engineering` `Documentation` `Git`
 
 <br>
 
-## 📊 Performance Metrics
+## 📊 Activity Overview
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veera4evr&show_icons=true&theme=gotham&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera4evr&layout=compact&theme=gotham&hide_border=true" width="48%" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=veera4evr&show_icons=true&theme=pro&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera4evr&layout=compact&theme=pro&hide_border=true" height="150" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="divider">
   <br><br>
-  <sub><b>Veeramanikandan G</b> • Computer Science & Business Systems • 2026</sub>
+  <sub><b>Veeramanikandan G</b> • Designed with precision. © 2026</sub>
 </div>
