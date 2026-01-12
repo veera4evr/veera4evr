@@ -1,79 +1,75 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f172a,1e293b,0f172a&height=180&section=header&text=VEERAMANIKANDAN%20G&fontSize=45&fontColor=e2e8f0&animation=fadeIn&fontAlignY=50" width="100%" alt="Professional Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=180&section=header&text=VEERAMANIKANDAN%20G&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Round Edged Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=24&duration=4000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+%26+BUSINESS+SYSTEMS;AI+PROMPT+ENGINEER+%7C+UI%2FUX+DESIGNER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=0f172a&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+%26+BUSINESS+SYSTEMS;AI+PROMPT+ENGINEER;UI%2FUX+DESIGNER" alt="Typing SVG" />
   </a>
 
   <p>
     <a href="https://www.linkedin.com/in/veera-%E2%9C%A6%EF%B8%8E-a6b488327">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin" />
     </a>
     <a href="mailto:veeramani.4evr@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=social&logo=gmail" />
     </a>
     <a href="https://github.com/veera4evr">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=social&logo=github" />
     </a>
   </p>
 </div>
 
 <br>
 
-## 📝 Executive Profile
+## 👨‍💻 Professional Profile
 
-> **"Data without design is functional. Design without data is decorative. I bridge the gap."**
+> [cite_start]**"Bridging the gap between complex code and user-centric design."** [cite: 4]
 
-[cite_start]I am a second-year undergraduate specializing in **Computer Science and Business Systems (CSBS)** at **SSM Institute of Engineering and Technology**[cite: 3, 26]. My academic foundation combines rigorous engineering principles with strategic business analytics.
+[cite_start]I am a second-year undergraduate specializing in **Computer Science and Business Systems (CSBS)**[cite: 3]. My work sits at the intersection of technical engineering and business strategy.
 
-[cite_start]I am currently focused on **R&D in Artificial Intelligence**, specifically **Prompt Engineering** and **LLM Optimization**, while maintaining a strong portfolio in **Responsive Web Design**[cite: 3, 16].
+[cite_start]I focus on **AI Prompt Engineering** and **UI/UX Design**[cite: 3], ensuring that the backend logic is smart and the frontend interface is intuitive.
 
-* [cite_start]**📍 Base:** Palani, Tamil Nadu [cite: 2]
-* [cite_start]**🎓 Education:** B.Tech CSBS (2024–2028) [cite: 24, 28]
-* [cite_start]**💼 Goal:** Seeking internship opportunities in Web Development & AI[cite: 6].
+* [cite_start]📍 **Location:** Palani, Tamil Nadu [cite: 2]
+* [cite_start]🎓 **Education:** SSM Institute of Engineering and Technology [cite: 3]
+* [cite_start]💼 **Focus:** Web Development & AI Optimization [cite: 6]
 
 <br>
 
-## 🏛️ Domain Expertise
+## 🏛️ Technical Competencies
 
-*A breakdown of my technical competencies.*
+*Tools I use to build scalable systems.*
 
-| **Strategic Domain** | **Technical Stack** |
+| **Category** | **Technologies** |
 | :--- | :--- |
-| **🧠 Artificial Intelligence** | ![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-Optimization-0f172a?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-Tuning-0f172a?style=flat-square) |
-| **💻 Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-Structure-0055a6?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Styling-0055a6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-Logic-0055a6?style=flat-square&logo=javascript&logoColor=white) |
-| **🎨 UI/UX Design** | ![Figma](https://img.shields.io/badge/Figma-Prototyping-333333?style=flat-square&logo=figma&logoColor=white) ![UX](https://img.shields.io/badge/User_Experience-Research-333333?style=flat-square) |
-| **📊 Data & Analytics** | ![Data](https://img.shields.io/badge/Data-Business_Analytics-0f172a?style=flat-square) ![Git](https://img.shields.io/badge/Git-Version_Control-0f172a?style=flat-square&logo=git&logoColor=white) |
+| **🧠 AI & Intelligence** | ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Optimization-0f172a?style=flat&logo=openai&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-Tuning-0f172a?style=flat) |
+| **💻 Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **🎨 UI/UX Design** | ![Figma](https://img.shields.io/badge/Figma-Prototyping-F24E1E?style=flat&logo=figma&logoColor=white) ![UX](https://img.shields.io/badge/User_Experience-Research-ff69b4?style=flat) |
+| **⚙️ Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) |
 
 <br>
 
-## 🚀 Featured Initiatives
+## 🚀 Key Initiatives
 
-### [cite_start]🔹 **Veera's Verse (Portfolio)** [cite: 8]
-> *Brand Identity & Frontend Engineering*
+### 🔹 **Veera's Verse** | *Personal Brand Identity*
+> [cite_start]*UI/UX & Frontend Engineering* [cite: 8]
 >
-> Designed a responsive personal portfolio applying **UI/UX principles** to ensure an accessible structure. [cite_start]Integrated personal branding with modern aesthetics to demonstrate visual detail and business presentation[cite: 9, 10, 11].
-> * **Stack:** `HTML5` `CSS3` `Brand Identity`
+> Designed a responsive personal portfolio to showcase technical competencies. [cite_start]Applied **UI/UX principles** to create an accessible, user-friendly navigation structure[cite: 10].
 
-### [cite_start]🔹 **AI & Frontend Experiments** [cite: 12]
-> *Research & Development*
+### 🔹 **AI & Frontend Experiments**
+> [cite_start]*R&D & Optimization* [cite: 12]
 >
-> An active repository for testing **AI prompt efficiency**. [cite_start]I document the results from various LLMs to refine prompt inputs and optimize outputs, bridging the gap between raw AI capability and user needs[cite: 13].
-> * **Stack:** `Prompt Engineering` `Documentation` `Git`
+> An active repository where I engineer optimized **AI prompts** to test and refine outputs from various LLMs. [cite_start]Focuses on documenting results to improve prompt efficiency[cite: 13].
 
 <br>
 
-## 📊 Activity Overview
+## 📊 Performance Metrics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=veera4evr&show_icons=true&theme=pro&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera4evr&layout=compact&theme=pro&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veera4evr&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera4evr&layout=compact&theme=cobalt&hide_border=true" height="150" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="divider">
-  <br><br>
   <sub><b>Veeramanikandan G</b> • Designed with precision. © 2026</sub>
 </div>
