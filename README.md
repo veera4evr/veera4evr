@@ -7,7 +7,7 @@
   
   *Bridging the gap between complex code and user-centric design.*
   
-  [![](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/veera-a6b488327)
+  [![](https://www.linkedin.com/in/veera-%E2%9C%A6%EF%B8%8E-a6b488327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   [![](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:veeramani.4evr@gmail.com)
 
 </div>
